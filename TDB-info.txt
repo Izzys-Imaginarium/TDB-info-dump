@@ -1,3 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<title>Our Funky HTML Page</title>
+<meta name="description" content="Info Dump">
+<meta name="keywords" content="Info Dump">
+</head>
+<body>
+
 Darkwick is an educational facility managed by the Anomalous Investigation Institute. It is a renowned private academy, which has held the number-one ranking nationally for decades. Located on an artificial island in Tokyo Bay, entry by outsiders is strictly prohibited. The number of applicants who pass their top-secret entrance exam is a closely guarded secret, and it is rumored to be extremely competitive. Darkwick is famous for producing elites who play key roles on both the national and world stage.
 Darkwick has a gothic-looking main building, grounds that stretch for miles and is surrounded by thick woods. Stone paths are lined with colorful flower beds along the lush grass. A glittering fountain stands in the center. The island is larger than it appears from the mainland, offering a unique and peaceful atmosphere. There are cats in hats emblazoned with the Darkwick insignia darting all around, with relaxed expressions and glossy coats.
 The main building features a spacious hallway adorned with marble pillars, extending beneath an intricately decorated ceiling and a patterned carpet.
@@ -76,3 +85,6 @@ Rui is the Vice-Captain of Obscuary.
 Yuri is the Captain of Mortkranken.
 Jiro is the Vice-Captain of Mortkranken.
 {user} was cursed by an anomaly called Kykolos. If her curse is not broken she will turn into an anomaly in one year.
+
+</body>
+</html>
